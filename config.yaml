@@ -8,8 +8,11 @@ channels:
 hotkeys:
   desktop:
     mute: 
-      - "ctrl+f5"
+      - "ctrl+f13"
+      - "f16"
     up:
-      - "ctrl+f6"
+      - "ctrl+f14"
+      - "f18"
     down:
-      - "ctrl+f7"
+      - "ctrl+f15"
+      - "f17"
