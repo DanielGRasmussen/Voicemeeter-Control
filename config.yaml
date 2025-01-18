@@ -1,0 +1,15 @@
+settings:
+  volume_step: 2.0
+  logging: True
+
+channels:
+  desktop: 5
+
+hotkeys:
+  desktop:
+    mute: 
+      - "ctrl+f5"
+    up:
+      - "ctrl+f6"
+    down:
+      - "ctrl+f7"
