@@ -1,6 +1,6 @@
 settings:
   volume_step: 2.0
-  logging: True
+  logging: False
 
 channels:
   desktop: 5

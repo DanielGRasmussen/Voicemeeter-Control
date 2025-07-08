@@ -1,4 +1,4 @@
-VoicemeeterControl.bat
+build_output/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

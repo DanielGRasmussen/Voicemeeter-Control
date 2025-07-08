@@ -1,0 +1,19 @@
+# Voicemeeter Control Requirements
+# Python 3.8+ required
+
+# GUI and System Tray
+PyQt5>=5.15.0
+Pillow>=9.0.0
+
+# Voicemeeter API (from GitHub)
+git+https://github.com/chvolkmann/voicemeeter-remote-python.git
+
+# Keyboard handling
+keyboard>=0.13.5
+
+# Configuration
+PyYAML>=6.0
+
+# Development/Build Requirements (optional)
+# Uncomment if building from source
+# pyinstaller>=5.0
